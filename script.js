@@ -14,6 +14,7 @@ main.addEventListener("mousemove", function(dets){
     
 })
 h1.addEventListener("mouseover",function(){
+    h1.style.mixBlendMode = ' difference'
     h1.innerHTML = "STUPID HAI"
     crsr.style.width  = '20vw' 
     crsr.style.height  = '20vw' 

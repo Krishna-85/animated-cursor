@@ -27,6 +27,7 @@ body {
   background-image: url(https://i.pinimg.com/236x/9e/a7/08/9ea7085130174179cb8e28a08d4c2191.jpg);
   width: 2vw;
   height: 2vw;
+  mix-blend-mode: difference;
   border-radius: 50%;
   position: absolute;
   transition: all ease 0.2s;
